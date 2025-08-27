@@ -29,7 +29,7 @@ html {
 body {
     font-family: 'Shantell Sans', sans-serif;
     color: var(--text-dark);
-    background-color: var(--sky-blue);
+    background-color: var(--sky-red);
     line-height: 1.6;
     text-align: center;
 }
@@ -96,7 +96,7 @@ nav a:hover::before {
 
 /* Hero Section */
 .hero {
-    background-color: var(--star-yellow);
+    background-color: var(--star-red);
     padding: 80px 20px;
     box-shadow: inset 0 -10px 10px rgba(0, 0, 0, 0.1);
     position: relative;
